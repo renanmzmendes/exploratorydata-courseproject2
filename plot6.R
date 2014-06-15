@@ -7,7 +7,7 @@ library(ggplot2)
 library(plyr)
 
 message("Starting plot")
-png("plot5.png")
+png("plot6.png")
 par(mfrow = c(1, 1), mar = c(5, 4, 4, 2) + 0.1)
 
 # We are considering here "motor vehicle sources" as the sources with the following values
